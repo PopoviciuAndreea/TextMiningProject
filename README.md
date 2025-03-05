@@ -1,2 +1,1 @@
-"# Company-Bankruptcy-Prediction" 
-"# TextMiningProject" 
+TextMiningProject
